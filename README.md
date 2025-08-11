@@ -23,8 +23,7 @@ Me chamo Maria Eduarda Grigório, sou estudante de Análise e Desenvolvimento de
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="./img/code.gif">
-    <h1 align="center">🤖 Linguagens e Tecnologias <3</h1>
-    <br/>
+    <h1 align="center">Linguagens e Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="40" alt="react-icon" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -34,14 +33,9 @@ Me chamo Maria Eduarda Grigório, sou estudante de Análise e Desenvolvimento de
     <img align="center" height="30" width="40" alt="java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
     <img align="center" height="30" width="40" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
     <img align="center" height="30" width="40" alt="sqlite" title="SQLITE" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" >
-          
-    
-          
    </div>
-
-  <br/>
   
-  <h1 align="center">🚀 Minhas Redes</h1>
+  <h1 align="center">Minhas Redes</h1>
     <a href = "mailto: eduardagrigorio2024@gmail.com">
       <img width="30" src="./img/gmail.svg">
     </a>

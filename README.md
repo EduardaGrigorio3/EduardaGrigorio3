@@ -22,7 +22,7 @@ Me chamo Maria Eduarda Grigório, sou estudante de Análise e Desenvolvimento de
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="./img/code.gif">
+    <img align="left" height="230" alt="coding-time" src="./img/code.gif">
     <h1 align="center">Linguagens e Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="40" alt="react-icon" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

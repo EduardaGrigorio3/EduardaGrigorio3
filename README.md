@@ -69,4 +69,4 @@ Me chamo Maria Eduarda Grigório, sou estudante de Análise e Desenvolvimento de
 
 <br/>
 
-![Snake animation](https://github.com/EduardaGrigorio3/EduardaGrigorio3/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/EduardaGrigorio3/EduardaGrigorio3/output/github-contribution-grid-snake.svg)

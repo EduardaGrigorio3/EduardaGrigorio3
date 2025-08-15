@@ -4,7 +4,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Maria Eduarda Grigório, sou estudante de Análise e Desenvolvimento de Sistemas no IFPE e apaixonada por tecnologia. Possuo conhecimento em Desenvolvimento Web, Arquitetura de Software e Modelos Ágeis. Estou em busca de novos desafios para aplicar e aprimorar minhas competências, contribuindo de forma significativa em projetos inovadores.
+Me chamo Maria Eduarda Grigório e apaixonada por tecnologia. Possuo conhecimento em Desenvolvimento Web, Arquitetura de Software e Modelos Ágeis. Estou em busca de novos desafios para aplicar e aprimorar minhas competências, contribuindo de forma significativa em projetos inovadores.
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=followers">
@@ -66,7 +66,3 @@ Me chamo Maria Eduarda Grigório, sou estudante de Análise e Desenvolvimento de
   />
 
 </p>
-
-<br/>
-
-![Snake animation](https://raw.githubusercontent.com/EduardaGrigorio3/EduardaGrigorio3/output/github-contribution-grid-snake.svg)
